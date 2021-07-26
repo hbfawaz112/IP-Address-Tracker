@@ -1,5 +1,6 @@
 # IP-Address-Tracker
-IP Address Tracker using HTML-CSS-JS and using : 
+### IP Address Tracker using HTML-CSS-JS 
+<b>And Using :</b>
  -  <a href="https://leafletjs.com/">Leaflet.js</a> : An open-source JavaScript library for mobile-friendly interactive maps.
  -  <a href="https://geo.ipify.org/">IP Geolocation API</a> An API for discover the precise physical location of a given IP address.
  -  Example of a request : 'https://geo.ipify.org/api/v1?apiKey='API_KEY'&ipAddress=8.8.8.8'
